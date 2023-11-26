@@ -1,0 +1,3 @@
+interface IPagamentoStrategy {
+    void processarPagamento();
+}
